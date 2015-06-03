@@ -1,4 +1,4 @@
-package project0.nanodegree.udacity.project0;
+package nanodegree.udacity.project0;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
